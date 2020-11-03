@@ -1,0 +1,79 @@
+body {
+width:1028px;
+background-color: #1b3e62;
+font-size:normal;
+margin: auto;
+}
+
+
+header a img{
+    width:300px;
+    height: 90px;
+}
+nav {
+	width : 100%;
+	height : 75px;
+	background-color: black;
+}
+
+ nav a {
+	text-decoration: none;
+	color :white;
+	padding-right : 90px;
+	vertical-align: middle;
+	font-size: 1.2em;
+	text-transform: uppercase;
+    float : right;
+    font-family : fantasy;
+}
+#imagebitcoin{
+ 
+     width: 200px;
+     height: 75px;
+}
+main{
+    background-color: white;
+   	color: black;
+    height:1100px;
+    width: auto;
+    margin: 20px;
+
+}
+
+section { width:889px;
+    margin-top:20px;
+    margin-left:30px;
+      background-color: white;
+    padding:20px;
+font-family: fantasy;
+}
+
+
+p a {
+color:black;
+
+}
+
+#Description {
+	font-style:italic;
+	font-size:11px;
+}
+
+footer {
+    
+     background-color: black;
+     height: 60px;
+     text-transform: normal;
+     text-align: left;
+     color: white;
+     text-decoration:none;
+     text-align: right;
+     margin-top: 15px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     margin-right: 10px;
+     clear: both;
+     font-family: fantasy;
+}
+
+
