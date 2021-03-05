@@ -2,5 +2,5 @@
 https://cryptomonnaie.lescigales.org/
 
 Contributor :
-Mahoutondji ZINSOU
+Mahoutondji ZINSOU,
 Ibtissem RAHIM
